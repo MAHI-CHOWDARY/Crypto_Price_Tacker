@@ -63,6 +63,7 @@ step 5 : open the localhost server to view the project
     4. CryptoTable.jsx subscribes using `useSelector`, auto-refreshing UI
 
 # 🎥 Demo Video 
+
     https://vimeo.com/1078614555/77cb536940
 
-    [Watch Demo Video](https://vimeo.com/1078614555/77cb536940)
+   
