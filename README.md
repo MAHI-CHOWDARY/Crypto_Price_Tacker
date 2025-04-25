@@ -61,3 +61,6 @@ step 5 : open the localhost server to view the project
     2. A `setInterval` simulates real-time changes by dispatching `updateAsset`
     3. Redux store updates the selected asset's price/volume
     4. CryptoTable.jsx subscribes using `useSelector`, auto-refreshing UI
+
+# 🎥 Demo Video 
+    https://vimeo.com/1078614555/77cb536940
