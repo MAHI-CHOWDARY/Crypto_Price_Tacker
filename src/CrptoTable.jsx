@@ -1,8 +1,10 @@
 import React, { useState } from 'react'
 // import { data } from './api/data'
 import './index.css'
+import { useSelector } from 'react-redux'
 
-const CrptoTable = ({data}) => {
+const CrptoTable = () => {
+  let data=useSelector(state=>state.crypto)
   let [val,setVal]=useState("")
   console.log(val)
   let sorted_data;
