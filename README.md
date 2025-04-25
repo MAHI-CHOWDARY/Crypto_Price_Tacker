@@ -64,3 +64,5 @@ step 5 : open the localhost server to view the project
 
 # 🎥 Demo Video 
     https://vimeo.com/1078614555/77cb536940
+
+    [Watch Demo Video](https://vimeo.com/1078614555/77cb536940)
